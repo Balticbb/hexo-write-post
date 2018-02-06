@@ -14,15 +14,15 @@ git remote add origin git@github.com:Balticbb/hexo-write-post.git
 git push -u origin master
 
 
-
-
-#hexo 常用操作命令
+# hexo 常用操作命令
+        
         cnpm install 安装相应的包
         hexo new post "name" 创建一篇名为name 的博客
         hexo clean
         hexo s -debug 本地部署
         hexo d -g 生成相关文件并部署到git
 ---
+
 博客开头加上 
         
         ---

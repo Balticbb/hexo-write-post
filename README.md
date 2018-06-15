@@ -29,6 +29,6 @@ git push -u origin master
         title: 我的第一篇hexo博客
         ---
 
-博客地址 http://balticbb.github.io
+博客地址
         
         
